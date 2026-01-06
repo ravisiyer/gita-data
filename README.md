@@ -1,4 +1,18 @@
+# In-progress Static Gita JSON files API hosted on GitHub Pages
 
+This project follows section: *Summary of best option for generous free-tier Gita API implementation* in [this blog post](https://raviswdev.blogspot.com/2025/12/create-gita-json-file-rest-api-hosted.html) to create a static Bhagavad Gita JSON files API hosted on GitHub Pages. It is an in-progress project.
+
+The Gita data for this project has been taken from the open source [gita](https://github.com/gita/gita) project. This project is using the same Unlicense license as the original gita project.
+
+This project is being developed by Ravi S. Iyer as service-oriented, non-commercial work.
+This work has been supported by voluntary contributions from individuals who wished to encourage the effort.
+Details about how this project is being executed and supported are documented in the [linked blog post](https://raviswdev.blogspot.com/2025/12/are-any-persons-interested-in.html).
+
+This project is not affiliated with the original [gita](https://github.com/gita/gita) project and is an independent project.
+
+Below contents are from the `README.md` file of the original [gita](https://github.com/gita/gita) project whose data is being used in this project.
+
+-------------
 # 🕉️ The Bhagavad Gita
 The Bhagavad Gita in JSON
 ![krishna-arjuna-1170x721](https://user-images.githubusercontent.com/62856848/194565916-2f0d5a4e-a038-4dcf-ba8d-1fd4f789a4a0.png)
