@@ -1,0 +1,62 @@
+[
+    {
+        "authorName": "Swami Ramsukhdas",
+        "author_id": 1,
+        "description": "।।1.1।। धृतराष्ट्र बोले (टिप्पणी प0 1.2) - हे संजय! (टिप्पणी प0 1.3) धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से इकट्ठे हुए मेरेे और पाण्डु के पुत्रों ने भी क्या किया?\n ",
+        "id": 1,
+        "lang": "hindi",
+        "language_id": 2,
+        "verseNumber": 1,
+        "verse_id": 1
+    },
+    {
+        "authorName": "Swami Gambirananda",
+        "author_id": 19,
+        "description": "Dhṛtarāṣṭra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the sacred field of Kurukshetra, eager for battle?",
+        "id": 4,
+        "lang": "english",
+        "language_id": 1,
+        "verseNumber": 1,
+        "verse_id": 1
+    },
+    {
+        "authorName": "Swami Sivananda",
+        "author_id": 16,
+        "description": "Dhritarashtra said, \"What did my people and the sons of Pandu do when they had assembled together, eager for battle, on the holy plain of Kurukshetra, O Sanjaya?\"",
+        "id": 5,
+        "lang": "english",
+        "language_id": 1,
+        "verseNumber": 1,
+        "verse_id": 1
+    },
+    {
+        "authorName": "Swami Ramsukhdas",
+        "author_id": 1,
+        "description": "।।1.2।। संजय बोले - उस समय वज्रव्यूह-से खड़ी हुई पाण्डव-सेना को देखकर राजा दुर्योधन द्रोणाचार्य के पास जाकर यह वचन बोला।\n ",
+        "id": 8,
+        "lang": "hindi",
+        "language_id": 2,
+        "verseNumber": 2,
+        "verse_id": 2
+    },
+    {
+        "authorName": "Swami Gambirananda",
+        "author_id": 19,
+        "description": "Sanjaya said: But then, seeing the army of the Pandavas in battle array, King Duryodhana approached the teacher, Drona, and spoke.",
+        "id": 11,
+        "lang": "english",
+        "language_id": 1,
+        "verseNumber": 2,
+        "verse_id": 2
+    },
+    {
+        "authorName": "Swami Sivananda",
+        "author_id": 16,
+        "description": "Sanjaya said: Having seen the army of the Pandavas drawn up in battle array, King Duryodhana approached his teacher, Drona, and spoke these words.",
+        "id": 12,
+        "lang": "english",
+        "language_id": 1,
+        "verseNumber": 2,
+        "verse_id": 2
+    }
+  ]
